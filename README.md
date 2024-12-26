@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ---
 
-**✨ Check out my repositories and let's build something amazing together!**
+**✨bye!**
