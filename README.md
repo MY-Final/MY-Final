@@ -1,10 +1,19 @@
-## Hi there 👋  
-## 你也喜欢鸡你太美吗？
+# Hi there 👋  
+**Welcome to my GitHub profile!**  
+
+---
+
+## 🌟 About Me  
+Hi, I'm a tech enthusiast with a passion for learning and growing as a developer.  
+Although I don't have many projects to showcase yet, I'm eager to contribute, explore new technologies, and turn my ideas into reality.  
+
+- 🌱 Currently improving my skills in **Java** and **Python**  
+- 🔭 Interested in front-end frameworks like **Vue.js** and **Bootstrap**  
+- ⚡ Always excited to learn about **Docker**, **Linux commands**, and other cool tools!  
 
 ---
 
 ## 🔧 Skills  
-
 | **Category**       | **Technologies**                                                                                                                      |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**       | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) |
@@ -15,4 +24,18 @@
 
 ---
 
-**✨ Bye!**
+## 🎯 Goals  
+- 💡 Build small projects to showcase my skills  
+- 🌍 Collaborate with the open-source community  
+- 🚀 Explore AI and Machine Learning  
+
+---
+
+## 📫 Let's Connect!  
+- 🌐 [Portfolio](#) *(Coming Soon!)*  
+- 💼 [LinkedIn](#) *(Add your LinkedIn link)*  
+- 🐦 [Twitter](#) *(Optional, add if active)*  
+
+---
+
+**✨ Thanks for visiting my profile! Let's connect and grow together!**  
