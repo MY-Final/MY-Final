@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
 
 ## 🛠️ About Me
 - 🌟 **Passionate Developer:** Building innovative and scalable solutions
@@ -34,13 +33,6 @@ Here are some ideas to get you started:
 | **Back-End**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
 | **Tools**           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea) |
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## 📫 Let's Connect!
-- **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubUsername)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
 
 ---
 
