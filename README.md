@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-## 🛠️ About Me
-- 🌟 **Passionate Developer:** Building innovative and scalable solutions
-- 💻 **Tech Enthusiast:** Proficient in **Java**, **Python**, **MySQL**, and more
-- 🌱 **Always Learning:** Exploring **Docker**, **Vue**, and modern web technologies
-- 🚀 **Hobbies:** Coding, solving algorithm challenges, and exploring open-source projects
-
 ## 🔧 Skills
 | **Category**       | **Technologies**                                                                 |
 |---------------------|---------------------------------------------------------------------------------|
