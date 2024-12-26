@@ -32,8 +32,8 @@ Although I don't have many projects to showcase yet, I love exploring new techno
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 [Portfolio](#) *(Coming Soon)*  
-- 📮 Email: *(ForMyFinal@outlook.com)*  
+- 🌐 [Portfolio](#) *(Coming Soon)* 
+- 📮 Email: ForMyFinal@outlook.com
 
 ---
 
