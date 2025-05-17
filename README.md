@@ -37,5 +37,3 @@
 ## 📬 Reach Out  
 - ✉️ Email: **my3486159271@gmail.com**  
 ---
-
-> ✨ Thanks for stopping by! Let’s connect and grow together.
