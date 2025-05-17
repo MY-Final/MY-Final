@@ -13,9 +13,6 @@
 > 🐔 鸡你太美  
 > 🏀 爱好打篮球，练习时长两年半  
 > 🧑‍💻 Java & Python learner  
-> 🎨 Enjoy building with Vue.js & Bootstrap  
-> 🐧 Passionate about Docker & Linux  
-> 📚 Curious explorer of tech  
 
 ---
 
@@ -34,13 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MY-Final&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Final&layout=compact&theme=radical" height="170" />
 </div>
-
----
-
-## 🎯 Current Focus  
-- 🔧 Build fun little projects  
-- 🤝 Open-source participation  
-- 🤖 Explore AI / Machine Learning  
 
 ---
 
