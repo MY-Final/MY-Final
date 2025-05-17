@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=MY-Final&label=Visitors&color=brightgreen&style=flat-square" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/MY-Final?label=Followers&style=flat-square" alt="followers"/>
   <img src="https://img.shields.io/github/stars/MY-Final?label=Stars&style=flat-square" alt="stars"/>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=007396" alt="Java"/>
-  <img src="https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
 
 ---
