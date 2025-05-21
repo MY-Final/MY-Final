@@ -2,9 +2,6 @@
   <img src="https://api.yyy001.com/api/Visits?name=final&mode=total" alt="visitors"/>
 </p>
 
-
-<h1 align="center">👋 Hey there!</h1>
-
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
