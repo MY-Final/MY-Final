@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MY-Final&label=Visitors&color=brightgreen&style=flat-square" alt="visitors"/>
+  <img src="https://api.yyy001.com/api/Visits?name=final&mode=total" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/MY-Final?label=Followers&style=flat-square" alt="followers"/>
   <img src="https://img.shields.io/github/stars/MY-Final?label=Stars&style=flat-square" alt="stars"/>
 </p>
