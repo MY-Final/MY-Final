@@ -10,16 +10,6 @@
   🧑‍💻 Java & Python learner
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MY-Final&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Final&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-<h2 align="center">📬 Reach Out</h2>
 
 <p align="center">
   ✉️ Email: <strong>my3486159271@gmail.com</strong>
