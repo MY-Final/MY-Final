@@ -28,14 +28,14 @@
 
 <!-- GitHub 统计 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MY-Final&show_icons=true&theme=default&hide_rank=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Final&layout=compact&langs_count=6" />
 </p>
 
 <!-- 访问量 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MY-Final&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
