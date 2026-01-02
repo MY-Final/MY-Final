@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
 </p>
 
+<!-- 前端 / Web -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+</p>
+
 
 <!-- 访问量 -->
 <p align="center">
