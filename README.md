@@ -26,14 +26,6 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
 </p>
 
-<!-- GitHub 统计 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MY-Final&show_icons=true&theme=default&hide_rank=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Final&layout=compact&langs_count=6" />
-</p>
 
 <!-- 访问量 -->
 <p align="center">
