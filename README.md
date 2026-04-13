@@ -2,7 +2,7 @@
 
 <img src="https://count.getloli.com/@MY-Final?name=MY-Final&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 
-# 👋 你好，我是 MY-Final
+# 👋 你好，我是 Final
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
