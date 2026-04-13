@@ -38,4 +38,3 @@
 ### 📫 联系我
 
 * **Email:** [my3486159271@gmail.com](mailto:my3486159271@gmail.com)
-* **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=MY-Final&label=Views&color=0e75b6&style=flat-square)
