@@ -1,5 +1,9 @@
 <!-- 个人简介 -->
 <p align="center">
+  <img src="https://count.getloli.com/@MY-Final?name=MY-Final&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
+<p align="center">
   🐔 鸡你太美<br>
   🏀 爱好打篮球，练习时长两年半<br>
   🧑‍💻 Java & Python
