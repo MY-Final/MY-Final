@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MY-Final&show_icons=true&theme=radical&hide_border=true" alt="MY-Final's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Final&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 联系我
 
 * **Email:** [final@120403.xyz](mailto:final@120403.xyz)
