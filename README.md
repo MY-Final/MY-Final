@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-> 🐔 鸡你太美 | 🏀 练习时长两年半 | 🧑‍💻 全栈探索者
+> 🐔 鸡你太美 | 🏀 练习时长两年半 | 🧑‍💻 全蔡探索者
 
 </div>
 
