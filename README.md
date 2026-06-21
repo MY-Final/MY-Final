@@ -36,14 +36,3 @@
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white"/>
 
 </p>
-
---
-
-## 📫 联系我
-
-<p align="center">
-  <a href="mailto:final@120403.xyz">
-    <img src="https://img.shields.io/badge/Email-final@120403.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
