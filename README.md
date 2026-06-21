@@ -37,20 +37,7 @@
 
 </p>
 
----
-
-## 📊 屎山统计
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MY-Final&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MY-Final&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MY-Final&theme=tokyonight" />
-</p>
-
----
+--
 
 ## 📫 联系我
 
